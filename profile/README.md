@@ -5,7 +5,7 @@ We build tools that make people more productive.
 ## Products
 
 - **[Superwhisper](https://superwhisper.com)** — AI-powered dictation for macOS, iOS, and Windows
-- **[Homerow](https://homerow.app)** — keyboard-driven Mac navigation
+- **[Homerow](https://homerow.com)** — keyboard-driven Mac navigation
 
 ## Links
 
