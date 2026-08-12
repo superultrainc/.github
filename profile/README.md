@@ -10,6 +10,5 @@ We build tools that make people more productive.
 ## Links
 
 - 📚 Superwhisper docs: [superwhisper.com/docs](https://superwhisper.com/docs)
-- 🛠️ Scripts & utilities: [superwhisper-scripts](https://github.com/superultrainc/superwhisper-scripts)
 - 💬 [Join community on Discord](https://discord.gg/Tu5tNyZ3xQ)
 - 🐦 X / Twitter: [@superwhisper](https://x.com/superwhisper)
